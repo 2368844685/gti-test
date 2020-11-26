@@ -1,0 +1,3 @@
+0:0:0:0:0:0:0:1 - - [29/Jul/2020:02:17:19 +0800] "GET /heima_ssm_web HTTP/1.1" 302 - http-bio-8888-exec-1 0
+0:0:0:0:0:0:0:1 - - [29/Jul/2020:02:17:20 +0800] "GET /heima_ssm_web/ HTTP/1.1" 200 107 http-bio-8888-exec-3 680
+0:0:0:0:0:0:0:1 - - [29/Jul/2020:02:18:19 +0800] "GET /heima_ssm_web/product/findAll.do HTTP/1.1" 200 21791 http-bio-8888-exec-1 1357

@@ -1,0 +1,38 @@
+2020-07-28 19:40:25,310 0      [ost-startStop-1] INFO  work.web.context.ContextLoader  - Root WebApplicationContext: initialization started
+2020-07-28 19:40:25,393 83     [ost-startStop-1] INFO  pport.XmlWebApplicationContext  - Refreshing Root WebApplicationContext: startup date [Tue Jul 28 19:40:25 CST 2020]; root of context hierarchy
+2020-07-28 19:40:25,445 135    [ost-startStop-1] INFO  ry.xml.XmlBeanDefinitionReader  - Loading XML bean definitions from URL [file:/D:/IdeaProjects/heima_ssm/heima_ssm_web/target/classes/applicationContext.xml]
+2020-07-28 19:40:25,992 682    [ost-startStop-1] INFO  redAnnotationBeanPostProcessor  - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2020-07-28 19:40:26,174 864    [ost-startStop-1] INFO         com.mchange.v2.log.MLog  - MLog clients using log4j logging.
+2020-07-28 19:40:26,238 928    [ost-startStop-1] INFO  m.mchange.v2.c3p0.C3P0Registry  - Initializing c3p0-0.9.1.2 [built 21-May-2007 15:04:56; debug? true; trace: 10]
+2020-07-28 19:40:26,615 1305   [ost-startStop-1] INFO  work.web.context.ContextLoader  - Root WebApplicationContext: initialization completed in 1303 ms
+2020-07-28 19:40:27,470 2160   [ost-startStop-1] INFO  .web.servlet.DispatcherServlet  - FrameworkServlet 'dispatcherServlet': initialization started
+2020-07-28 19:40:27,474 2164   [ost-startStop-1] INFO  pport.XmlWebApplicationContext  - Refreshing WebApplicationContext for namespace 'dispatcherServlet-servlet': startup date [Tue Jul 28 19:40:27 CST 2020]; parent: Root WebApplicationContext
+2020-07-28 19:40:27,474 2164   [ost-startStop-1] INFO  ry.xml.XmlBeanDefinitionReader  - Loading XML bean definitions from class path resource [spring-mvc.xml]
+2020-07-28 19:40:27,592 2282   [ost-startStop-1] INFO  redAnnotationBeanPostProcessor  - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2020-07-28 19:40:27,821 2511   [ost-startStop-1] INFO  andler.SimpleUrlHandlerMapping  - Mapped URL path [/css/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0'
+2020-07-28 19:40:27,843 2533   [ost-startStop-1] INFO  andler.SimpleUrlHandlerMapping  - Mapped URL path [/img/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#1'
+2020-07-28 19:40:27,847 2537   [ost-startStop-1] INFO  andler.SimpleUrlHandlerMapping  - Mapped URL path [/js/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#2'
+2020-07-28 19:40:27,851 2541   [ost-startStop-1] INFO  andler.SimpleUrlHandlerMapping  - Mapped URL path [/plugins/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#3'
+2020-07-28 19:40:27,894 2584   [ost-startStop-1] INFO  n.RequestMappingHandlerMapping  - Mapped "{[/product/findAll.do]}" onto public org.springframework.web.servlet.ModelAndView com.itheima.ssm.controller.ProductController.findAll() throws java.lang.Exception
+2020-07-28 19:40:27,985 2675   [ost-startStop-1] INFO  n.RequestMappingHandlerAdapter  - Looking for @ControllerAdvice: WebApplicationContext for namespace 'dispatcherServlet-servlet': startup date [Tue Jul 28 19:40:27 CST 2020]; parent: Root WebApplicationContext
+2020-07-28 19:40:28,043 2733   [ost-startStop-1] INFO  n.RequestMappingHandlerAdapter  - Looking for @ControllerAdvice: WebApplicationContext for namespace 'dispatcherServlet-servlet': startup date [Tue Jul 28 19:40:27 CST 2020]; parent: Root WebApplicationContext
+2020-07-28 19:40:28,142 2832   [ost-startStop-1] INFO  .web.servlet.DispatcherServlet  - FrameworkServlet 'dispatcherServlet': initialization completed in 672 ms
+2020-07-28 20:20:18,880 0      [ost-startStop-1] INFO  work.web.context.ContextLoader  - Root WebApplicationContext: initialization started
+2020-07-28 20:20:18,954 74     [ost-startStop-1] INFO  pport.XmlWebApplicationContext  - Refreshing Root WebApplicationContext: startup date [Tue Jul 28 20:20:18 CST 2020]; root of context hierarchy
+2020-07-28 20:20:19,006 126    [ost-startStop-1] INFO  ry.xml.XmlBeanDefinitionReader  - Loading XML bean definitions from URL [file:/D:/IdeaProjects/heima_ssm/heima_ssm_web/target/classes/applicationContext.xml]
+2020-07-28 20:20:19,436 556    [ost-startStop-1] INFO  redAnnotationBeanPostProcessor  - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2020-07-28 20:20:19,580 700    [ost-startStop-1] INFO         com.mchange.v2.log.MLog  - MLog clients using log4j logging.
+2020-07-28 20:20:19,628 748    [ost-startStop-1] INFO  m.mchange.v2.c3p0.C3P0Registry  - Initializing c3p0-0.9.1.2 [built 21-May-2007 15:04:56; debug? true; trace: 10]
+2020-07-28 20:20:19,953 1073   [ost-startStop-1] INFO  work.web.context.ContextLoader  - Root WebApplicationContext: initialization completed in 1071 ms
+2020-07-28 20:20:20,771 1891   [ost-startStop-1] INFO  .web.servlet.DispatcherServlet  - FrameworkServlet 'dispatcherServlet': initialization started
+2020-07-28 20:20:20,774 1894   [ost-startStop-1] INFO  pport.XmlWebApplicationContext  - Refreshing WebApplicationContext for namespace 'dispatcherServlet-servlet': startup date [Tue Jul 28 20:20:20 CST 2020]; parent: Root WebApplicationContext
+2020-07-28 20:20:20,774 1894   [ost-startStop-1] INFO  ry.xml.XmlBeanDefinitionReader  - Loading XML bean definitions from class path resource [spring-mvc.xml]
+2020-07-28 20:20:20,916 2036   [ost-startStop-1] INFO  redAnnotationBeanPostProcessor  - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2020-07-28 20:20:21,207 2327   [ost-startStop-1] INFO  andler.SimpleUrlHandlerMapping  - Mapped URL path [/css/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0'
+2020-07-28 20:20:21,234 2354   [ost-startStop-1] INFO  andler.SimpleUrlHandlerMapping  - Mapped URL path [/img/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#1'
+2020-07-28 20:20:21,239 2359   [ost-startStop-1] INFO  andler.SimpleUrlHandlerMapping  - Mapped URL path [/js/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#2'
+2020-07-28 20:20:21,243 2363   [ost-startStop-1] INFO  andler.SimpleUrlHandlerMapping  - Mapped URL path [/plugins/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#3'
+2020-07-28 20:20:21,294 2414   [ost-startStop-1] INFO  n.RequestMappingHandlerMapping  - Mapped "{[/product/findAll.do]}" onto public org.springframework.web.servlet.ModelAndView com.itheima.ssm.controller.ProductController.findAll() throws java.lang.Exception
+2020-07-28 20:20:21,388 2508   [ost-startStop-1] INFO  n.RequestMappingHandlerAdapter  - Looking for @ControllerAdvice: WebApplicationContext for namespace 'dispatcherServlet-servlet': startup date [Tue Jul 28 20:20:20 CST 2020]; parent: Root WebApplicationContext
+2020-07-28 20:20:21,452 2572   [ost-startStop-1] INFO  n.RequestMappingHandlerAdapter  - Looking for @ControllerAdvice: WebApplicationContext for namespace 'dispatcherServlet-servlet': startup date [Tue Jul 28 20:20:20 CST 2020]; parent: Root WebApplicationContext
+2020-07-28 20:20:21,574 2694   [ost-startStop-1] INFO  .web.servlet.DispatcherServlet  - FrameworkServlet 'dispatcherServlet': initialization completed in 803 ms
